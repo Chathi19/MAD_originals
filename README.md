@@ -1,6 +1,5 @@
 # MAD_originals
 
-# MAD_Project_Originals_B02 - GROUP
 
 # IT20642150 - LAKSHAN J.A.T
 

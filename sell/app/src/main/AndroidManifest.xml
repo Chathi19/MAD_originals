@@ -17,6 +17,11 @@
         <activity android:name=".admin_sell_list_view" />
         <activity android:name=".sell_request_screen" />
         <activity android:name=".sell_list_screen" />
+        <activity android:name=".edit_rent_item_screen"></activity>
+        <activity android:name=".rent_item_add_screen" />
+        <activity android:name=".admin_rent_list_view" />
+        <activity android:name=".rent_request_screen" />
+        <activity android:name=".rent_list_screen" />
         <activity
             android:name=".MainActivity"
             android:exported="true">

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "685228326861",
+    "project_id": "my-music-ecea2",
+    "storage_bucket": "my-music-ecea2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685228326861:android:8d07693fb24c8a6f898e84",
+        "android_client_info": {
+          "package_name": "com.example.music_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685228326861-2s4brcnpaq0g4keapkv0qqmrv0vk910n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-4S6mQKfeCe7sswDiNrYMmNS9-sFrrzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685228326861-2s4brcnpaq0g4keapkv0qqmrv0vk910n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

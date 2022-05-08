@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">music_store</string>
+
+    <!-- string on rent_item_screen -->
+    <string name="add_rental_titel">Add Selling Product</string>
+
+    <!-- string on rent_item_screen -->
+    <string name="edit_rental_titel">Edit Selling Product</string>
+    <string name="edit_rental_product_name">Product Name</string>
+    <string name="edit_rental_avalibility">Availability</string>
+    <string name="edit_rental_price_per">Price per day</string>
+    <string name="edit_rental_description">Description</string>
+    <string name="edit_rental_img">Image</string>
+    <string name="edit_rental_btn_text">Save</string>
+
+    <!-- string on single rent item -->
+    <string name="rental_screen_titel">Selling Products</string>
+    <string name="rental_screen_item_name">Item Name</string>
+    <string name="rental_screen_btn_view">View</string>
+
+    <!-- string on rent request screen  -->
+    <string name="rental_request_screen_titel">Rent Request</string>
+    <string name="rental_request_screen_instument_id">Instrument ID</string>
+    <string name="rental_request_screen_coustomer">Coustomer</string>
+    <string name="rental_request_screen_contact">Contact</string>
+    <string name="rental_request_screen_request_date">Request date</string>
+    <string name="rental_request_screen_days">Days</string>
+    <string name="rental_request_screen_btn_text">Request</string>
+    <string name="rental_request_screen_description">We will contact you via this contact number within six hours</string>
+
+    <!-- string on single rent full item -->
+    <string name="single_item_full_item_name">Item Name</string>
+    <string name="single_item_full_item_qty">Item Qty</string>
+    <string name="single_item_full_item_price">Item Price</string>
+    <string name="single_item_full_item_description">Item Description</string>
+    <string name="single_item_full_btn_edit">Edit</string>
+    <string name="single_item_full_btn_delete">Delete</string>
+
+
+</resources>

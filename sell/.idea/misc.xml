@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/AVISHKA PC/AndroidStudioProjects/music_store/app/src/main/res/drawable/purple_button_background.xml" value="0.1" />
+        <entry key="..\:/Users/AVISHKA PC/AndroidStudioProjects/music_store/app/src/main/res/layout/activity_admin_sell_list_view.xml" value="0.1703125" />
+        <entry key="..\:/Users/AVISHKA PC/AndroidStudioProjects/music_store/app/src/main/res/layout/activity_edit_sell_item_screen.xml" value="0.1703125" />
+        <entry key="..\:/Users/AVISHKA PC/AndroidStudioProjects/music_store/app/src/main/res/layout/activity_main.xml" value="0.19074074074074074" />
+        <entry key="..\:/Users/AVISHKA PC/AndroidStudioProjects/music_store/app/src/main/res/layout/activity_sell_item_add_screen.xml" value="0.19074074074074074" />
+        <entry key="..\:/Users/AVISHKA PC/AndroidStudioProjects/music_store/app/src/main/res/layout/activity_sell_list_screen.xml" value="0.19074074074074074" />
+        <entry key="..\:/Users/AVISHKA PC/AndroidStudioProjects/music_store/app/src/main/res/layout/activity_sell_request_screen.xml" value="0.19074074074074074" />
+        <entry key="..\:/Users/AVISHKA PC/AndroidStudioProjects/music_store/app/src/main/res/layout/purple_button_background.xml" value="0.19074074074074074" />
+        <entry key="..\:/Users/AVISHKA PC/AndroidStudioProjects/music_store/app/src/main/res/layout/single_sell_item_details_fragment.xml" value="0.19074074074074074" />
+        <entry key="..\:/Users/AVISHKA PC/AndroidStudioProjects/music_store/app/src/main/res/layout/single_sell_item_fragment.xml" value="0.19074074074074074" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
